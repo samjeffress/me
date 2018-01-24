@@ -1,6 +1,6 @@
 # Sam Jeffress
 ## Senior Software Developer
-samjeffress@gmail.com
+samjeffress@gmail.com | [@sam_jeffress](https://twitter.com/sam_jeffress) | 0408 026858
 
 I'm passionate about creating software by collaborating closely with end users and product teams, creating  software that is great to use as well achieving goals for stakeholders.
 I value ongoing learning and improvement through personal study and interaction with my peers and experts who offer a different view of the world.
