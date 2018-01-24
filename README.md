@@ -8,12 +8,13 @@ I love to use the skills that I have to enhance the lives of those around me.
 
 ### Skills 
 * NodeJS 
-* AWS 
+* AWS including deployment & tooling
 * Frontend JS (react / redux)
 * C# (MVC and services)
 * Asynchronous processing patterns
 * Enterprise integration patterns
 * Agile processes (Kanban / Scrum) with focus on continuous delivery
+* Postgres, MSSQL, Dynamo experience
 
 ### Experience
 
@@ -28,6 +29,7 @@ Experience including:
 * Integration with third part CRM
 * Focus on standardisation across wider software development group and tooling to support
 * Mentoring interns & junior developers
+* Contribution to collaborative environment, including building tools used across group
 
 March 2014 - March 2015: Core Application delivery
 
